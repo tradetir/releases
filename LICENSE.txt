@@ -1,0 +1,30 @@
+Tradetir End User License Agreement (EULA)
+Version 1.0 — November 12, 2025
+
+IMPORTANT: THIS IS A LEGALLY BINDING AGREEMENT BETWEEN YOU (THE “LICENSEE”) AND TRADETIR, INC. (“TRADETIR”). BY DOWNLOADING, INSTALLING, OR USING THE TRADETIR SOFTWARE (DEFINED BELOW) YOU AGREE TO BE BOUND BY THE TERMS OF THIS EULA. IF YOU DO NOT AGREE, DO NOT INSTALL OR USE THE SOFTWARE AND DELETE ALL COPIES IMMEDIATELY.
+
+1. Licensed Software. “Software” means the Tradetir desktop application, related binaries, auto‑update packages, documentation, and any updates or patches Tradetir makes available under this EULA.
+
+2. License Grant. Subject to this EULA, Tradetir grants you a limited, revocable, non‑exclusive, non‑transferable license to install and run one copy of the Software solely for your internal, non‑commercial use. This license does not transfer ownership of any intellectual property.
+
+3. Restrictions. You may NOT and may not permit any third party to: (a) copy, distribute, sublicense, sell, lease, lend, or host the Software; (b) modify, translate, adapt, or create derivative works; (c) reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code except where expressly permitted by applicable law; (d) remove or obscure proprietary notices; (e) use the Software for timesharing, service bureau, or competitive analysis; or (f) transfer the Software or this license to any other person or entity without Tradetir’s written consent.
+
+4. Ownership. Tradetir and its licensors retain all right, title, and interest in and to the Software, including all copies and derivative works. The Software is protected by copyright, patent, trade secret, and other intellectual‑property laws. No rights are granted except as expressly stated in this EULA.
+
+5. Updates; Feedback. Tradetir may provide updates or automatically install patches. All updates are deemed part of the Software and subject to this EULA. Any feedback you provide may be used by Tradetir without restriction and without obligation to you.
+
+6. Termination. This EULA is effective until terminated. Tradetir may terminate immediately if you breach any term. Upon termination you must discontinue all use and delete all copies of the Software. Sections 3–11 survive termination.
+
+7. Confidentiality. The Software and any non‑public information provided by Tradetir constitute Tradetir confidential information. You must protect it with the same degree of care you use for your own confidential information and at least reasonable care.
+
+8. No Warranty. THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE.” TRADETIR DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON‑INFRINGEMENT. USE OF THE SOFTWARE IS AT YOUR OWN RISK.
+
+9. Limitation of Liability. TO THE MAXIMUM EXTENT PERMITTED BY LAW, TRADETIR AND ITS AFFILIATES WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS, DATA, OR GOODWILL. TRADETIR’S TOTAL LIABILITY FOR ANY CLAIM ARISING OUT OF THIS EULA OR THE SOFTWARE WILL NOT EXCEED USD $100.
+
+10. Export. You represent that you are not located in a country subject to U.S. embargo or identified on any U.S. government restricted list, and you will comply with all applicable export laws.
+
+11. Governing Law. This EULA is governed by the laws of the State of California, without regard to conflicts of law principles. The parties submit to the exclusive jurisdiction of the state and federal courts located in San Francisco County, California.
+
+12. Entire Agreement. This EULA constitutes the entire agreement regarding the Software and supersedes all prior or contemporaneous understandings. Tradetir may update this EULA by posting a revised version with future releases; continued use constitutes acceptance.
+
+By installing or using the Tradetir Software you acknowledge that you have read this EULA, understand it, and agree to be bound by its terms.
